@@ -13,8 +13,6 @@ int main()
 	cout << "sum =  " << sum << endl;
 
 
-
-
-
 	return 0;
 }
+//Write a program that takes two integers as input and prints their sum
